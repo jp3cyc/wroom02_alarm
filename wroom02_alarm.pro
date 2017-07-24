@@ -1,4 +1,4 @@
-update=2017/07/24 20:58:42
+update=2017/07/24 22:34:59
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=wroom02
+LibName31=relay
